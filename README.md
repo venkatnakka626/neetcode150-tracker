@@ -4,7 +4,7 @@
 ================================================================
 
 GitHub Repo  :  https://github.com/venkatnakka626/neetcode150-tracker
-Live Demo    :  https://github.com/venkatnakka626/neetcode150-tracker#demo
+
 
 ----------------------------------------------------------------
 WHAT THIS PROJECT DOES
