@@ -104,6 +104,6 @@ AUTHOR
 Name     :  Venkat
 College  :  IIIT (B.Tech CSE, 3rd Year)
 Goal     :  Placement prep — SDE / Frontend / Full-Stack roles
-GitHub   :  https://github.com/venkat626
+GitHub   :  https://github.com/venkatnakka626
 
 ================================================================
